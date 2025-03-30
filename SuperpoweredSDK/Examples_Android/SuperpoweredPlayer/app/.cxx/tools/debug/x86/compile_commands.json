@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/.cxx/Debug/386i2t34/x86",
+  "command": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android26 --sysroot=D:/programmes/androidstudio/android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DPlayerExample_EXPORTS -IE:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -IE:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\..\\..\\..\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\PlayerExample.dir\\src\\main\\cpp\\PlayerExample.cpp.o -c E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\src\\main\\cpp\\PlayerExample.cpp",
+  "file": "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\src\\main\\cpp\\PlayerExample.cpp"
+},
+{
+  "directory": "E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/.cxx/Debug/386i2t34/x86",
+  "command": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android26 --sysroot=D:/programmes/androidstudio/android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DPlayerExample_EXPORTS -IE:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -IE:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\..\\..\\..\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\PlayerExample.dir\\E_\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp.o -c E:\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp",
+  "file": "E:\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp"
+}
+]

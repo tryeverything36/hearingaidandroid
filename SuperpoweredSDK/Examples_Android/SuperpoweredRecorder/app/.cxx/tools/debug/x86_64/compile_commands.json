@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/386i2t34/x86_64",
+  "command": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android26 --sysroot=D:/programmes/androidstudio/android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRecorderExample_EXPORTS -IE:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredRecorder/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -IE:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\..\\..\\..\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\RecorderExample.dir\\src\\main\\cpp\\RecorderExample.cpp.o -c E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\src\\main\\cpp\\RecorderExample.cpp",
+  "file": "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\src\\main\\cpp\\RecorderExample.cpp"
+},
+{
+  "directory": "E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/386i2t34/x86_64",
+  "command": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android26 --sysroot=D:/programmes/androidstudio/android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRecorderExample_EXPORTS -IE:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredRecorder/app/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -IE:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\..\\..\\..\\Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles\\RecorderExample.dir\\E_\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp.o -c E:\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp",
+  "file": "E:\\hearingaidandroid\\SuperpoweredSDK\\Superpowered\\OpenSource\\SuperpoweredAndroidAudioIO.cpp"
+}
+]

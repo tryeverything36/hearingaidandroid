@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\programmes\\androidstudio\\android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\.cxx\\Debug\\386i2t34\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\programmes\\androidstudio\\android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\.cxx\\Debug\\386i2t34\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "RecorderExample::@6890427a1f51a3e7e1df": {
+      "artifactName": "RecorderExample",
+      "abi": "x86",
+      "output": "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredRecorder\\app\\build\\intermediates\\cxx\\Debug\\386i2t34\\obj\\x86\\libRecorderExample.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,3 @@
+E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/.cxx/Debug/386i2t34/x86_64/CMakeFiles/PlayerExample.dir
+E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/.cxx/Debug/386i2t34/x86_64/CMakeFiles/edit_cache.dir
+E:/hearingaidandroid/SuperpoweredSDK/Examples_Android/SuperpoweredPlayer/app/.cxx/Debug/386i2t34/x86_64/CMakeFiles/rebuild_cache.dir

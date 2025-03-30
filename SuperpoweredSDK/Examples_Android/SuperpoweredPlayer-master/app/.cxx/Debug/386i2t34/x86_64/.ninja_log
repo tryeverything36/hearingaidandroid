@@ -1,0 +1,4 @@
+# ninja log v5
+8	409	7650117020325839	CMakeFiles/PlayerExample.dir/E_/hearingaidandroid/SuperpoweredSDK/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	a1c445a14a1d0978
+1	958	7650117025776764	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	a58e8bac663f660
+959	1280	7650117028261248	../../../../build/intermediates/cxx/Debug/386i2t34/obj/x86_64/libPlayerExample.so	95dcc388e6055e75

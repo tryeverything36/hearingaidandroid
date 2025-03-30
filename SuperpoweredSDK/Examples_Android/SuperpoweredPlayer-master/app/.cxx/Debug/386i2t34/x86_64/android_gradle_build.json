@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\programmes\\androidstudio\\android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\.cxx\\Debug\\386i2t34\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\programmes\\androidstudio\\android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\.cxx\\Debug\\386i2t34\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "PlayerExample::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "PlayerExample",
+      "output": "E:\\hearingaidandroid\\SuperpoweredSDK\\Examples_Android\\SuperpoweredPlayer\\app\\build\\intermediates\\cxx\\Debug\\386i2t34\\obj\\x86_64\\libPlayerExample.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\programmes\\androidstudio\\android\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
